@@ -14,3 +14,9 @@ Date: 2023-11-21 17:00
 Name: Vinh Truong
 Content: A must known knowledge if you consider a real developer
 ```
+
+```
+Date: 2023-11-21 17:30
+Name: Vinh Truong
+Content: Note that the project is for evaluation purpose, do not merge anything
+```
