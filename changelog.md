@@ -2,9 +2,9 @@
 Here is the change log provided for this project. Each changelog should be documented using the following format
 
 ```
-Date: YYYY-MM-DD hh:mm
-Name: <Name of changer>
-Content: What do you think about Git
+Date: 2023-11-24 10:50 
+Name: Kiet Tran 
+Content: Assignments for github
 ```
 
 ## Changelogs
